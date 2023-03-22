@@ -1,6 +1,8 @@
 /*  your css code here. If applicable */
 div{
 	position:relative;
+	border:2px solid black;
+	
 }
 p{
 	position:relative;
